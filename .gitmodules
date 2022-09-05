@@ -1,0 +1,3 @@
+[submodule "repo game/Assets/scripts"]
+	path = repo game/Assets/scripts
+	url = https://github.com/skindin/scripts
